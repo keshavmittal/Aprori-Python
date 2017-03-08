@@ -35,4 +35,6 @@ options()
 "function to add arguments so user can choose the data file , minimum support and minimum confidence to be given"
 
 Note: "sys.stdout is used to print the result into output file.
+
+Sample data files added.
  
