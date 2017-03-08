@@ -1,0 +1,8 @@
+outlook temperature Humidity  Windy  PlayTennis
+sunny      hot        high     false   N
+sunny      hot        high     true    N
+overcast   hot        high     false   P
+rain       mild       high     false   P
+rain       cool       normal   false   P
+
+
